@@ -11,6 +11,10 @@
     {
       "type": "interstitial",
       "ad_unit_id": "ca-app-pub-6536847443134892/3874756664"
+    },
+    {
+      "type": "open",
+      "ad_unit_id": "ca-app-pub-6536847443134892/1234567890"
     }
   ]
 }
